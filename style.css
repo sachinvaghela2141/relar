@@ -1,0 +1,312 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+    font-style: arial;
+
+}
+
+.red {
+    border: 2px solid red;
+}
+
+.gold {
+    border: 3px solid gold;
+}
+
+.blue {
+    border: 3px solid blue;
+}
+
+.grey {
+    border: 3px solid grey;
+}
+
+.green {
+    border: 3px solid green;
+}
+
+.black {
+    border: 3px solid black;
+}
+
+.container-fluid {
+    overflow: hidden;
+}
+
+/* background-color */
+
+.navbar {
+    min-height: 170px;
+    /* border: 5px solid gold; */
+    background-color: rgba(28, 45, 55, 255);
+
+}
+
+.logo-section {
+    /* border: 3px solid red; */
+    /* width: 40%; */
+
+}
+
+.logo-top img {
+    height: 90px;
+
+
+}
+
+.carousel {
+    /* border: 3px solid red; */
+    min-height: 700px;
+
+}
+
+.home-1 {
+
+    background: url(home-1.jpg);
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    min-width: 100%;
+    background-size: cover;
+}
+
+.home-2 {
+
+    background: url(home-2.jpg);
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    min-width: 100%;
+    background-size: cover;
+}
+
+.home-3 {
+
+    background: url(blog-s-1-2-636x440.png);
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    min-width: 100%;
+    background-size: cover;
+}
+
+
+.text-1 span {
+    /* border: 4px solid blue; */
+
+}
+
+.text-2 h1 {
+    font-size: 70px;
+    width: 60%;
+
+}
+
+.first-section {
+    background-color: rgba(192, 205, 209, 255) !important;
+    min-height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.first-card {
+    min-height: 250px;
+    /* border: 3px solid black; */
+}
+
+.card-1 {
+    min-height: 250px;
+    /* border: 3px solid red; */
+
+}
+
+/* -------- second-section ---------------- */
+.second-section {
+    min-height: 90vh;
+    background-color: rgba(28, 45, 55, 255);
+    /* border: 2px solid red; */
+}
+
+.second-section-card {
+
+    min-height: 200px;
+    /* border: 3px solid gold; */
+}
+
+.second-left {
+    /* border: 3px solid white; */
+    min-height: 180px;
+}
+
+.second-right {
+    /* border: 3px solid white; */
+    min-height: 180px;
+}
+
+/*-------------------- bottom-------------- */
+.second-bottom {
+    min-height: 450px;
+    /* border: 3px solid red; */
+}
+
+.left-bottom {
+    /* border: 3px solid gold; */
+    min-height: 320px;
+
+    background: url(home-1.jpg);
+    background-size: cover;
+
+}
+
+.right-bottom {
+    /* border: 3px solid blueviolet; */
+    min-height: 320px;
+    background: url(home-2.jpg);
+    background-size: cover;
+
+}
+
+/* ----------------third-section-------------- */
+
+.third-section {
+    min-height: 45vh;
+    background-color: rgba(28, 45, 55, 255);
+
+
+}
+
+.third-card {
+    /* border: 3px solid red; */
+    min-height: 250px;
+}
+
+.third-left {
+    /* border: 3px solid red; */
+    min-height: 300px;
+}
+
+.third-right {
+    /* border: 3px solid orange; */
+    min-height: 300px;
+}
+
+
+/* fourth-card */
+.fourth-section {
+
+
+    min-height: 50vh;
+    background-color: rgba(28, 45, 55, 255);
+
+}
+
+.fourth-card-section {
+    /* border: 3px solid gold; */
+    min-height: 350px;
+
+}
+
+.fourth-cards {
+    min-height: 350px;
+}
+
+/* -----------------five-section--------------- */
+
+.five-section {
+
+    min-height: 90vh;
+    background-color: rgba(28, 45, 55, 255);
+    background: url(home-4.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+
+
+
+}
+
+.five-card-section {
+
+    min-height: 70vh;
+
+}
+
+.five-left-section {
+    min-height: 70vh;
+
+
+}
+
+.five-right-section {
+    min-height: 90vh;
+
+}
+
+/* -----------------------six-container------------------------ */
+
+.six-section {
+
+    min-height: 280px;
+    /* border: 2px solid teal; */
+    background-color: rgba(28, 45, 55, 255);
+
+
+
+}
+
+.six-left-text {
+
+    height: 280px;
+}
+
+.six-right-text {
+
+    height: 280px;
+}
+
+/* ---------------seven-section--------------------- */
+
+.seven-section {
+    min-height: ;
+    /* border: 3px solid red; */
+    background-color: rgba(28, 45, 55, 255);
+    gap: 50px !important;
+    
+
+}
+
+.seven-left {
+
+    /* border: 2px solid gold; */
+    height: 60vh;
+
+    
+    
+}
+
+.seven-right {
+
+    /* border: 2px solid blue; */
+    height: 60vh;
+
+
+}
+
+/*----------------------------------- eight-section------------------------------- */
+
+.eight-section{
+    min-height: 100vh;
+    border: 3px solid red;
+    background-color: rgba(192,205,209,255);
+    
+}
+.eight-card{
+
+    
+ min-height: 230px;
+ display: flex;
+
+
+
+
+}
+

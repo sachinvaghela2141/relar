@@ -1,0 +1,24 @@
+@media only screen and (max-width:430px) {}
+
+
+
+
+
+
+
+/* 600px */
+@media only screen and (max-width:600px) {
+
+    .carousel {
+        width: 300px !important;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .carousel-inner {
+        width: 420px !important;
+    }
+
+
+}
